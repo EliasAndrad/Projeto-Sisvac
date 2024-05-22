@@ -2,9 +2,9 @@
 
 # Desenvolvedores
 
-Elias Andrade
-Bruno Serafim
-João Gabriel
+-Elias Andrade
+-Bruno Serafim
+-João Gabriel
 
 # Como baixar o projeto
 
